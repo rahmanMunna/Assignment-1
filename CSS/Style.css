@@ -1,0 +1,484 @@
+.banner {
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-left: 150px
+}
+
+.title-1 {
+
+    text-align: center;
+    color: #FFF;
+    padding-top: 100px;
+    font-size: 40px;
+    font-family: Merriweather;
+}
+
+.title-2 {
+    text-align: center;
+    color: #FFF;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    font-size: 40px;
+    width: 632px;
+    font-family: Merriweather;
+
+
+}
+
+.main-head {
+    color: #F00;
+    text-align: center;
+    font-size: 48px;
+
+
+
+}
+
+span {
+    color: #F00;
+    text-align: center;
+
+    font-size: 25px;
+    width: 420px;
+    height: 30px;
+    margin-left: 37%;
+    margin-bottom: 0;
+
+
+
+}
+
+.lower {
+    color: #070211;
+    text-align: center;
+    font-size: 50px;
+
+    margin-left: 30%;
+    margin-right: 31%;
+    margin-top: 10px;
+    word-spacing: 10px;
+}
+
+.img {
+    margin-left: 25%;
+}
+
+.vector {
+    background-image: url('../resources/Vectorrr.png'), linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    ;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    width: 1320px;
+    height: 600px;
+    margin-top: 110px;
+
+}
+
+.sec-1 {
+    padding-top: 10%;
+    color: #FFF;
+    etter-spacing: 7.04px;
+
+
+}
+
+.pera {
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    line-height: 30px;
+
+}
+
+.welcome {
+    font-size: 64px;
+}
+
+.join {
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 103px;
+    height: 24px;
+
+
+}
+
+.i2024 {
+    padding-top: 6%;
+    max-width: 105.853px;
+    height: 147.494px;
+    padding-right: 15%
+}
+
+.content {
+    text-align: center;
+    font-size: 25px;
+    line-height: 40px;
+    text-transform: capitalize;
+    margin-right: 25%;
+    padding-top: 8%;
+}
+
+.p-d-t {
+    margin-top: 5%;
+    background-color: rgba(255, 192, 203, 0.185);
+    margin-left: 10%;
+    height: 350px;
+    width: 1325px;
+    border-radius: 8px;
+
+
+
+
+
+}
+
+.pdt {
+    color: #F00;
+}
+
+.btn-join-red {
+    text-align: center;
+    border-radius: 8px;
+    background: #F00;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 43%;
+    margin-top: 3%;
+    color: #FFF;
+    font-size: 20px;
+    text-decoration: none;
+    width: 100px;
+    height: 25px;
+
+}
+
+.section-3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 7%;
+
+}
+
+.elipse {
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 2%;
+    align-items: center;
+    margin-right: 5%;
+}
+
+.section {
+    margin-left: 60px;
+
+
+}
+
+.coming-soon {
+    font-size: 48px;
+
+}
+
+.pera2 {
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.60);
+    line-height: 32px;
+
+}
+
+.new-best-offer {
+    font-size: 24px;
+    color: #F00;
+
+}
+
+.new-year-sticker {
+    margin-right: 1.7%;
+}
+
+
+
+.heading-2 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.pera-3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 200px;
+    ;
+}
+
+.happy-new-year {
+
+    margin-top: 20px;
+}
+
+.section-4 {}
+
+.content-4 {
+    text-align: center;
+    margin-top: 6%;
+    line-height: 0;
+
+
+}
+
+.what--is-funtional {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 0;
+    margin-right: 30%;
+}
+
+.heading-4 {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 0;
+    margin-left: 28%;
+    word-spacing: 10%;
+    width: 800px;
+    height: 91px;
+}
+
+.pera-4 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    width: 1068px;
+    margin-left: 20%;
+    line-height: 30px;
+
+
+}
+
+.images-6 {
+    margin-left: 10%;
+    align-items: center;
+    border-radius: 16px;
+
+}
+
+.email {
+    text-align: center;
+    margin-top: 10%;
+    border-radius: 16px;
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 10%;
+}
+
+
+.pera-5 {
+    width: 900px;
+    height: 60px;
+    margin-left: 22%;
+}
+
+.input-email {
+
+    margin-left: 5%;
+    position: relative;
+
+}
+
+.email-field {
+    border-radius: 50px;
+    background: #FFF;
+    width: 600px;
+    height: 72px;
+    text-align:start;
+}
+.in{
+    display: flex;
+    gap:0;
+    text-align: center;
+    padding-left: 20%;
+}
+
+.btn-subscribe {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: normal;
+    text-transform: capitalize;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 76px;
+    position: absolute;right:-0px;
+    
+   
+   
+    
+}
+
+.email-icon {
+    padding-top: 8%;
+}
+
+.gifts {
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+
+.best-gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    line-height: 0;
+}
+
+.heading-portfolio {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 58px;
+    text-transform: capitalize;
+}
+
+.pera-gifts {
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+
+}
+/* fotter */
+
+.footer {
+    width: 1690px;
+    height: 609px;
+    background: #070211;
+    margin-top: 10%;
+
+
+}
+
+.footer-1 {
+
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+
+
+}
+
+.con-1 {
+    margin-top: 17%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.f-1 {
+    color: #FFF;
+
+
+}
+
+.cell-img {
+    width: 24px;
+    height: 24px;
+    margin-top: 17%;
+
+}
+
+.cell {
+    display: flex;
+    gap: 5px;
+    width: 195px;
+    height: 40px;
+    padding-top: 10%;
+
+}
+
+.pera-cell {
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.footer-2 {
+    margin-top: 5%;
+    text-align: center;
+    margin-left: 6%;
+
+}
+
+.footer-3 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 6%;
+
+}
+
+.last-pera {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    max-width: 295px;
+
+}
+
+.middle-meye {
+    display: flex;
+    background-image: url('../resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: 50%;
+    
+
+}
+
+.box {
+    padding-top: 7%;
+    color:#FFFFD4;
+
+
+}
+
+.overlap {
+    background-image: url('../resources/Rectangle 1.png');
+    background-repeat: no-repeat;
+    background-position-y: 33.5%;
+    background-position-x: 61.9%;
+    width: 1320px;
+    
+    
+}
+.discount{
+    padding-top: 18%;
+    padding-left: 10%;
+}
