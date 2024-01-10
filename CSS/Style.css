@@ -1,11 +1,12 @@
 .banner {
     background-image: url('../resources/Banner\ Image.png');
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
     border-radius: 16px;
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
     margin-left: 150px
+
 }
 
 .title-1 {
@@ -233,7 +234,7 @@ span {
     margin-top: 20px;
 }
 
-.section-4 {}
+
 
 .content-4 {
     text-align: center;
@@ -254,13 +255,21 @@ span {
 }
 
 .heading-4 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    margin-left: 22%;
+    word-spacing: 10%;
+    width: 800px;
+    height: 91px;
+    
+}
+
+.holydays {
     color: #F00;
     text-align: center;
     font-family: Merriweather;
-    font-size: 52px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 0;
+    font-size: 72px;
     margin-left: 28%;
     word-spacing: 10%;
     width: 800px;
@@ -275,9 +284,13 @@ span {
     width: 1068px;
     margin-left: 20%;
     line-height: 30px;
-
+    margin-top: 0;
+    height: 91px;
+   
 
 }
+
+
 
 .images-6 {
     margin-left: 10%;
@@ -316,11 +329,12 @@ span {
     background: #FFF;
     width: 600px;
     height: 72px;
-    text-align:start;
+    text-align: start;
 }
-.in{
+
+.in {
     display: flex;
-    gap:0;
+    gap: 0;
     text-align: center;
     padding-left: 20%;
 }
@@ -336,11 +350,12 @@ span {
     background: #F00;
     width: 210px;
     height: 76px;
-    position: absolute;right:-0px;
-    
-   
-   
-    
+    position: absolute;
+    right: -0px;
+
+
+
+
 }
 
 .email-icon {
@@ -375,6 +390,7 @@ span {
     line-height: 32px;
 
 }
+
 /* fotter */
 
 .footer {
@@ -458,13 +474,13 @@ span {
     background-repeat: no-repeat;
     background-position-y: bottom;
     background-position-x: 50%;
-    
+
 
 }
 
 .box {
     padding-top: 7%;
-    color:#FFFFD4;
+    color: #FFFFD4;
 
 
 }
@@ -475,10 +491,11 @@ span {
     background-position-y: 33.5%;
     background-position-x: 61.9%;
     width: 1320px;
-    
-    
+
+
 }
-.discount{
+
+.discount {
     padding-top: 18%;
     padding-left: 10%;
 }
